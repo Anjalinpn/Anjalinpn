@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali  Neupane.
 - 👀 I’m interested in web development, designing and content writing.
-- 🌱 I’m currently learning front-end development and ddesigning.
+- 🌱 I’m currently learning front-end development and designing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
